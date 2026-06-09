@@ -28,4 +28,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=SAIHAR26&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=SAIHAR26&icon=0&color=5)](https://visitcount.itsvg.in)
 
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/SAIHAR26/SAIHAR26/output/github-contribution-grid-snake.svg)
