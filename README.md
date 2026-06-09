@@ -17,4 +17,4 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAIHAR26&theme=tokyo-night)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view)]
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31q3zzy3xxhipgurplvuo742fftm&cover_image=true&theme=novatorem)]
