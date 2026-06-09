@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Harini</h1>
-<h3 align="center">IT Student | Web Developer | Competitive Programmer</h3>
+<h3 align="center">IT Student | Competitive Programmer</h3>
 🔭 I’m currently working on CampusRide and NextHire, building practical tech solutions for students. <br>👯 I’m looking to collaborate on an impactful full-stack projects and real-world problem-solving apps.<br>🤝 I’m looking for help with backend scaling, system design, and writing production-level code.<br>🌱 I’m currently learning advanced Data Structures, competitive programming, and modern web development.<br>💬 Ask me about coding contests, turning ideas into projects, and surviving engineering life.<br>⚡ Fun fact : I overthink my UI designs more than my life decisions.
 
 
