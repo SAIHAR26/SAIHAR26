@@ -15,4 +15,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/SAIHAR26/SAIHAR26/output/github-contribution-grid-snake.svg)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAIHAR26&theme=tokyo-night)]
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAIHAR26&theme=tokyo-night)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view)]
