@@ -17,4 +17,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAIHAR26&theme=tokyo-night)
 
-<img src="cute_spider_v2.svg" width="120"/>
+<img src="cute_spider_v2.svg" width="100%"/>
+
+![Contribution Graph](your-graph-image-url)
