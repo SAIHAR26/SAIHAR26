@@ -19,4 +19,4 @@
 
 <img src="cute_spider_v2.svg" width="100%"/>
 
-![Contribution Graph](your-graph-image-url)
+
